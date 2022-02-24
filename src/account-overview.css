@@ -1,3 +1,10 @@
-.AccountOverview {
-  background-color: lightblue;
+.DjsStyle {
+  background-color: greenyellow;
+
+}
+.DjsText {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  background-color: aqua;
+  text-justify: distribute-all-lines;
 }
